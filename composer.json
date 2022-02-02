@@ -1,6 +1,7 @@
 {
     "name": "robsantossilva/blog",
     "description": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Robson Silva",
