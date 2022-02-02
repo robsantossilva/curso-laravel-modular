@@ -1,0 +1,23 @@
+{
+    "name": "robsantossilva/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Robson Silva",
+            "email": "robsantossilva@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Robsantossilva\\Blog\\": ""
+        }
+    }
+}
